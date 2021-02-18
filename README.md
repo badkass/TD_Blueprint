@@ -8,4 +8,4 @@ Récupérer l'entièreté des items d'énergie pour accéder au niveau suivant.
 
 //infos
 
-Dans cette partie c++, La feature choisie est le compoant de vie. 
+Dans cette partie c++, La feature choisie est le compoant de vie. le joueur a 3 vie et meurt donc au bout de 3 coup de canon. 
