@@ -8,5 +8,4 @@ Récupérer l'entièreté des items d'énergie pour accéder au niveau suivant.
 
 //infos
 
-Dans cette partie blueprint, le joueur n'a qu'une seule vie (type de jeu die and retry) mais dans la partie c++, la feature choisie est le composant de vie. 
-Le joueur aura donc 3 vieS, qui lui permettrons de survivre auX différentS tir de canon. Le level sera restart quand il se prendra 3 tirS de canon ou quand il tombera d'une plateforme.
+Dans cette partie c++, La feature choisie est le compoant de vie. 
